@@ -9,3 +9,4 @@
 
 #ignore *.class
 ./*.class
+./*.pdf
